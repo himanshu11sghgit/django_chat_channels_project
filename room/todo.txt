@@ -1,0 +1,9 @@
+DONE-Create app for room
+DONE-Create superuser
+DONE-Show list of rooms
+DONE-Room detail view
+DONE-Create a consumer
+DONE-Joining a chat
+DONE-Sending messages
+DONE-Storing messages
+DONE-Scrolling to the bottom
